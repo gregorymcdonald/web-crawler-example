@@ -1,0 +1,19 @@
+{
+  "name": "web-crawler-example",
+  "version": "1.0.0",
+  "description": "An example web crawler using node and npm.",
+  "main": "crawl.js",
+  "scripts": {
+    "crawl": "node crawl.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregorymcdonald/web-crawler-example.git"
+  },
+  "author": "Greg McDonald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gregorymcdonald/web-crawler-example/issues"
+  },
+  "homepage": "https://github.com/gregorymcdonald/web-crawler-example#readme"
+}
