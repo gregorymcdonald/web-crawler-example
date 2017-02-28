@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/gregorymcdonald/web-crawler-example/issues"
   },
-  "homepage": "https://github.com/gregorymcdonald/web-crawler-example#readme"
+  "homepage": "https://github.com/gregorymcdonald/web-crawler-example#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.76.0"
+  }
 }
